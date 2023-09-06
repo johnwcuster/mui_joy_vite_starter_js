@@ -1,8 +1,8 @@
 <a name="readme-top"></a>
 # mui_joy_vite_starter_js
 Project boilerplate for MUI's Joy component library for React and their Material Icons library.
--**This repo is not affiliated with MUI, Vite, or Google.** It's just a personal project to reduce the friction from scratchpad to prototype.
--*This repo uses Javascript, not Typescript.*
+- **This repo is not affiliated with MUI, Vite, or Google.** It's just a personal project to reduce the friction from scratchpad to prototype.
+- *This repo uses Javascript, not Typescript.*
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
