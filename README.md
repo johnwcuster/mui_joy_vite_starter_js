@@ -1,7 +1,9 @@
 <a name="readme-top"></a>
 # mui_joy_vite_starter_js
- Project boilerplate for MUI's Joy component library for React and their Material Icons library.
+Project boilerplate for MUI's Joy component library for React and their Material Icons library.
+
 **NOTE 1:  This repo is not affiliated with MUI, Vite, or Google.** It's just a personal project to reduce the friction from scratchpad to prototype.
+
 *Note 2: This repo uses Javascript, not Typescript.*
 
 <!-- ABOUT THE PROJECT -->
@@ -22,7 +24,7 @@ Additionally, this project scaffolds 2 exmaples of how to get started with icons
 
 ## How to use
 
-1. Download or clone this repo. 
+1. Download or clone this repo.
 2. Navigate to your local directory
 3. Install and run:
 ```bash
